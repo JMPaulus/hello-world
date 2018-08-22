@@ -1,5 +1,5 @@
 # hello-world
-The very CSS first steps
+The very CSS first steps.
 This is me, a guy that speaks some languages and who decided to study JavaScript.
 First I need to learn HTML.
 Then CSS.
